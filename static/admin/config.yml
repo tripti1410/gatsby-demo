@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: tripti1410/gatsby-demo
 
 media_folder: static/assets
 public_folder: assets
